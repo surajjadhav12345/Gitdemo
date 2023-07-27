@@ -6,6 +6,10 @@ public class sampl1 {//method body open
 		System.out.println(a);
 		System.out.println(b);
 		System.out.println(b);
+		System.out.println(b);
+		System.out.println(b);
+		System.out.println(b);
+		System.out.println(b);
 		
 
 	
